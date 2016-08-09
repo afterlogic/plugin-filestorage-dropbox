@@ -6,11 +6,11 @@ This plugin extends Files Storage functionality of WebMail Pro by adding interfa
 
 To allow for using this feature, administrator of WebMail Pro installation needs to configure Dropbox integration first:
 
-http://www.afterlogic.com/wiki/Configuring_integration_with_social_networks_(WebMail)#Dropbox
+http://www.afterlogic.com/docs/webmail-pro/external-services/integration-with-external-services-google-facebook-twitter-dropbox#Dropbox
 
 The plugin itself is enabled in a standard way for WebMail Pro described at:
 
-http://www.afterlogic.com/wiki/Installing_a_plugin_(WebMail)
+http://www.afterlogic.com/docs/plugins-repository/installing-a-plugin
 
 The following item needs to be added in array defined in data/settings/config.php file:
 
