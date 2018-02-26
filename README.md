@@ -15,3 +15,7 @@ http://www.afterlogic.com/docs/plugins-repository/installing-a-plugin
 The following item needs to be added in array defined in data/settings/config.php file:
 
 'plugins.afterlogic-dropbox-plugin' => true,
+
+ The Dropbox PHP SDK can be installed through Composer:
+ 
+ php composer.phar require kunalvarma05/dropbox-php-sdk
